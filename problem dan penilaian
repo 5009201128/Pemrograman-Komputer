@@ -1,0 +1,32 @@
+Daftar Tema Tugas Pemrograman :
+    1. Database sistem nilai mahasiswa → NRP digit terakhir 0
+    2. Database sistem perpustakaan → NRP digit terakhir 1
+    3. Database harga sayur-mayur di pasar → NRP digit terakhir 2
+    4. Database pasien Covid-19 di suatu kelurahan → NRP digit terakhir 3
+    5. Database penumpang pesawat terbang saat pandemi → NRP digit terakhir 4
+    6. Database sistem penjualan minimarket “ABC” → NRP digit terakhir 5
+    7. Database sistem penjualan bahan bangunan toko “Anda” → NRP digit terakhir 6
+    8. Database sistem proses produksi tahu → NRP digit terakhir 7
+    9. Database sistem peternakan ayam petelur → NRP digit terakhir 8
+    10. Database warga Kelurahan “Atas Angin” → NRP digit terakhir 9
+Ketentuan :
+  A. Program harus bisa :
+      1. melakukan entry data baru
+      2. hapus data yang ada
+      3. tambah data
+      4. edit data
+      5. mengurutkan data
+      6. mencari data
+      7. menampilkan data yang diproses
+      8. menampilkan kesalahan proses
+      9. simpan data dalam file secara permanen di disk
+  B. Penilaian didasarkan pada :
+      1. kebenaran program (harus di cek, misal diberi input yang salah program masih jalan atau langsung hang)
+      2. kelengkapan fasilitas program (minimal sesuai dengan ketentuan A)
+      3. tampilan program (misal mudah dioperasikan dan user friendly, boleh berbasis window)
+      4. kreativitas dalam tampilan dan pemrograman
+      5. buku manual pemakaian program (user guide) yang dibuat 6. source program (nama_program.cpp) dan program jadi (nama_program.exe), dokumen hasil running program, dan buku manual yang dikirim ke email saya padarwito@gmail.com
+  C. CATATAN :
+      1. Saat kirim program TIDAK BOLEH di zip atau sejenisnya, sehingga saya bisa langsung build dan run. YANG DI ZIP ATAU SEJENISNYA TIDAK SAYA KOREKSI !!!
+      2. Program yang sudah dikirim ke saya TIDAK BISA dilakukan perbaikan.
+      3. Baris perintah atau fungsi sebaiknya diberi keterangan kegunaannya, sehingga pembaca mengerti maksud perintah atau fungsi tersebut.
